@@ -16,6 +16,7 @@
   "loopfunc": true,
   "validthis": true,
   "globals": {
-    "google": true
+    "google": true,
+    "GMaps": true
   }
 }

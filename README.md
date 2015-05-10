@@ -1,6 +1,6 @@
 # gmaps.controls
 
-gmaps.js module for create custom controls.
+gmaps.js module to create custom controls.
 
 ## Install
 
@@ -37,7 +37,7 @@ Every Google Maps map needs a container (`<div id="map"></div>` in this demo), w
   <div id="map"></div>
   <script>
     var map = new GMaps({
-      el : '#basic-map',
+      el : '#map',
       lat: -12.0433,
       lng: -77.0283,
       zoom: 12

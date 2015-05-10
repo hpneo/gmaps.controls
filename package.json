@@ -1,7 +1,7 @@
 {
   "name": "gmaps.controls",
   "version": "0.5.0",
-  "description": "gmaps.js module for create custom controls",
+  "description": "gmaps.js module to create custom controls",
   "main": "gmaps.controls.js",
   "scripts": {
     "test": "gulp test"
